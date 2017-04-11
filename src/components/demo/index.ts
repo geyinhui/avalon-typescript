@@ -4,7 +4,7 @@ let demoComponent: Avalon2NameSpace.ComponentConfig = {
     template: `<div class='${style.foo}'>{{@demoData.name}}{{@demoData.name}}</div>`,
     defaults: {
         demoData: {
-            name: "demoComponent--"
+            name: "带血爬出来的Avalon"
         }
     }
 }
